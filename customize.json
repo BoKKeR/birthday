@@ -1,0 +1,23 @@
+{
+  "greeting": "Hola!",
+  "name": "Dulce",
+  "greetingText": "'Eres dulce o agria?'",
+  "wishText": "Cheers to another year of wonderful experiences!",
+  "imagePath": "img/dulce.png",
+  "text1": "You are turning 29. Today!",
+  "textInChatBox": "Happy birthday to you!! I love you!",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But I stopped.",
+  "text4": "because really I am very ",
+  "text4Adjective": "",
+  "text5Entry": "Since,",
+  "text5Content": "You are incredibly special to me",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Your real gift awaits you at home.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
